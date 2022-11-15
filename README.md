@@ -1,4 +1,12 @@
 # TrackerCrypto
+Progetto dove creo un tracker-crypto con le API gratis di coingeko
+
+
+
+
+
+
+# TrackerCrypto
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
